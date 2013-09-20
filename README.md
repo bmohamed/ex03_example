@@ -1,9 +1,9 @@
-Exercice 3_example
+Exercice03_example
 *****
 
-Ex03
+Deuxième partie de l'Exercice03
 
-Exemples de l'exercice 3, affichage des données en utilisant la bibliothèque.
+L'Exemple qui va utiliser les fonctions de la bibliothéque Ex03: Affichage des données fournis.
 
 
 Mohamed Bouanane

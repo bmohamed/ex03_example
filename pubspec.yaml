@@ -10,7 +10,6 @@ description: An example how to use ex03 , a library for print.
 homepage: http://ondart.me/
 dependencies:
   ex03:
-  git: git://github.com/bmohamed/ex03.git
+      git: git://github.com/bmohamed/ex03.git
 
-  
   
