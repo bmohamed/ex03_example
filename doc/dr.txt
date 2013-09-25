@@ -1,6 +1,6 @@
 ex03 example
 
-0/1
+1/1
 
 README.md: nom du cours ?
 
