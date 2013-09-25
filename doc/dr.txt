@@ -1,0 +1,24 @@
+ex03 example
+
+0/1
+
+README.md: nom du cours ?
+
+.gitignore ?
+
+pubspec.yaml ? name 2x ?
+
+name: ex03_example
+description: A sample command-line application
+#dependencies :
+#  unittest : any
+
+name: ex03_example
+version: 0.0.1
+author: Mohamed Bouanane
+description: An example how to use ex03 , a library for print.
+homepage: http://ondart.me/
+dependencies:
+  ex03:
+  git: git://github.com/bmohamed/ex03.git
+
