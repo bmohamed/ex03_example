@@ -12,4 +12,4 @@ String converstionMetreToKilometre(num width, num height, num area){
 }
 
 String afficherLaDeuxiemeReponse(num distance, num time, num speed) =>   
-    ('in meter : The distance of the circuit is $distance, the average time is $time and the average speed is $speed');
+    ('in meter : The distance of the circuit is $distance, the average time is $time seconds and the average speed is $speed  Km/h');

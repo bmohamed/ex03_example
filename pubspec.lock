@@ -4,7 +4,7 @@ packages:
   ex03:
     description:
       ref: null
-      resolved-ref: eed8c5558790bcf78b619ed264e11cc8cda11edf
+      resolved-ref: "9d6c3dee91c97070a3e83aa0437df7549bd16031"
       url: "git://github.com/bmohamed/ex03.git"
     source: git
     version: "0.0.1"
